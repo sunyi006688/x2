@@ -11,7 +11,7 @@
 #### 交流群[https://t.me/iflugp](https://t.me/iflugp)
 
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sunyi006688/x1.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sunyi006688/x2.git)
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
